@@ -1,2 +1,2 @@
 # scripts
-My bash scripts and bindings
+My bash scripts and bindings.
